@@ -4,25 +4,15 @@
     {
       "domain": [
         "digvps.com",
-        "nfdns.top"
-      ]
-    },     
-    {
+        "www.v2rayssr.com"
+      ],
       "domain_suffix": [
-        ".digvps.com",
-        ".nfdns.top"
-      ]
-    },     
-    {
+        "digvps.com",
+        "v2rayssr.com"
+      ],
       "domain_keyword": [
         "digvps",
-        "nfdns.top"
-      ]
-    },     
-    {
-       "ip_cidr": [
-        "45.192.110.181",
-        "45.192.110.182"
+        "v2rayssr"
       ]
     }
   ]
