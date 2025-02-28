@@ -3,9 +3,8 @@
   "rules": [
     {
       "domain": [
-        "e13252.dscg.akamaiedge.net",
-        "h-netflix.online-metrix.net",
-        "netflix.com.edgesuite.net"
+        "digvps.com",
+        "my.nextdns.io"
       ],
       "domain_suffix": [
         "cookielaw.org",
