@@ -2,10 +2,6 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "ipcheck.digvps.com",
-        "www.v2rayssr.com"
-      ],
       "domain_suffix": [
         "digvps.com",
         "v2rayssr.com"
