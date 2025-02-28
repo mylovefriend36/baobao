@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "digvps.com",
+        "ipcheck.digvps.com",
         "www.v2rayssr.com"
       ],
       "domain_suffix": [
