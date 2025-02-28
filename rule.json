@@ -4,15 +4,15 @@
     {
       "domain": [
         "digvps.com",
-        "my.nextdns.io"
+        "nfdns.top"
       ],
       "domain_suffix": [
         ".digvps.com",
-        ".nextdns.io"
+        ".nfdns.top"
       ],
       "domain_keyword": [
         "digvps",
-        "nextdns"
+        "nfdns.top"
       ]
        "ip_cidr": [
         "178.168.9.0/24",
