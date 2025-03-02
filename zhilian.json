@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "digvps.com",
+        "v2rayssr.com"
+      ],
+      "domain_keyword": [
+        "digvps",
+        "v2rayssr"
+      ]
+    }
+  ]
+}
