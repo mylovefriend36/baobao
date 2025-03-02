@@ -2,13 +2,12 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        "digvps.com",
-        "v2rayssr.com"
+       "domain": [
+        "steamcdn-a.akamaihd.net",
+        "qian.2.0.2.5.shang.an.qiankun.date"
       ],
-      "domain_keyword": [
-        "digvps",
-        "v2rayssr"
+      "domain_suffix": [
+        "steamserver.net"
       ]
     }
   ]
