@@ -2,9 +2,8 @@
   "version": 1,
   "rules": [
     {
-       "domain": [
-        "steamcdn-a.akamaihd.net",
-        "qian.2.0.2.5.shang.an.qiankun.date"
+      "domain": [
+        "steamcdn-a.akamaihd.net"
       ],
       "domain_suffix": [
         "steamserver.net"
