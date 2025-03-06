@@ -3,11 +3,9 @@
   "rules": [
     {
       "domain": [
-        "api.miwifi.com",
         "steamcdn-a.akamaihd.net"
       ],
       "domain_suffix": [
-        "miwifi.com",
         "steamserver.net"
       ]
     }
